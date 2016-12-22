@@ -1,0 +1,23 @@
+{
+  "name": "simple-retry",
+  "version": "0.0.1",
+  "description": "a simple utility for retrying custom operation until succeed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/our-bts/simple-retry.git"
+  },
+  "keywords": [
+    "retry",
+    "nodejs"
+  ],
+  "author": "BTS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/our-bts/simple-retry/issues"
+  },
+  "homepage": "https://github.com/our-bts/simple-retry#readme"
+}
